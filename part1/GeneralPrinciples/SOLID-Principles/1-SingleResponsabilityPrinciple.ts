@@ -32,7 +32,7 @@ class CartItemAdder {
     // this does NOT add a new responsibility
     // it only exposes the items managed by this class
     return this.items;
-  }
+  } 
 }
 
 class CartTotalCalculator {
