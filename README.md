@@ -13,6 +13,7 @@ A comprehensive guide to software development principles and design patterns, in
 - Interface Segregation Principle (ISP)
 - Dependency Inversion Principle (DIP)
 
+### More
 - Don’t Repeat Yourself (DRY)
 - Inversion of Control (IoC)
 - You Aren’t Gonna Need It (YAGNI)
