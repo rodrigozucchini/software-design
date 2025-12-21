@@ -2,17 +2,17 @@
 
 A comprehensive guide to software development principles and design patterns, including clear explanations and code examples.
 
-
 ## Part 1: Software Development Principles and Patterns
 
 ### General Principles
 
-- **S.O.L.I.D. Principles**
-  - Single Responsibility Principle (SRP)
-  - Open/Closed Principle (OCP)
-  - Liskov Substitution Principle (LSP)
-  - Interface Segregation Principle (ISP)
-  - Dependency Inversion Principle (DIP)
+#### S.O.L.I.D. Principles
+- Single Responsibility Principle (SRP)
+- Open/Closed Principle (OCP)
+- Liskov Substitution Principle (LSP)
+- Interface Segregation Principle (ISP)
+- Dependency Inversion Principle (DIP)
+
 - Don’t Repeat Yourself (DRY)
 - Inversion of Control (IoC)
 - You Aren’t Gonna Need It (YAGNI)
@@ -98,9 +98,53 @@ A comprehensive guide to software development principles and design patterns, in
 
 ---
 
+### Additional Principles (Extended)
+- Separation of Concerns (SoC)
+- Principle of Least Astonishment (POLA)
+- Fail Fast
+- Information Hiding
+- Convention over Configuration
+- Design for Testability
+- Robustness Principle (Postel’s Law)
+- Rule of Three
+- Avoid Premature Optimization
+- Explicit is better than implicit
+
+---
+
+### Additional Design Patterns
+
+#### Structural Patterns
+- Facade
+- Flyweight
+- Proxy
+
+#### Behavioral Patterns
+- Mediator
+- Memento
+- Null Object
+- Event Aggregator
+
+---
+
+### Additional Anti-Patterns
+
+#### Design Anti-Patterns
+- God Object
+- Shotgun Surgery
+- Tight Coupling
+
+#### Methodology Anti-Patterns
+- Overengineering
+- Reinventing the Wheel
+
+---
+
 ## Part 2: Software Architecture Principles and Patterns
 
 ### Introduction to Software Architecture
+
+---
 
 ### DDD: Domain-Driven Design
 
@@ -137,20 +181,57 @@ A comprehensive guide to software development principles and design patterns, in
 - Application Layer
 - Infrastructure Layer
 
-#### Hexagonal Architecture
+---
+
+### Hexagonal Architecture
 - System building blocks
 - Ports and adapters
 
-#### Additional Concepts
+---
+
+### Additional Concepts
 - Components
 - Control flow
   - Using application services
   - CQRS without a Bus
   - CQRS with a Bus
 - Testing
-- Event-Driven Architecture
-  - Introduction
-  - Domain Events
-  - Context
+
+---
+
+### Event-Driven Architecture
+- Introduction
+- Domain Events
+- Context
 - Event Sourcing
 - Eventual Consistency
+
+---
+
+### Additional Architectural Styles & Patterns
+
+#### Architectural Styles
+- Layered Architecture
+- Monolithic Architecture
+- Microservices Architecture
+- Service-Oriented Architecture (SOA)
+- Pipe and Filter Architecture
+- Serverless Architecture
+- MVC / MVP / MVVM
+
+#### Distributed and Resilience Patterns
+- Saga Pattern
+- Circuit Breaker
+- Retry / Timeout
+- Bulkhead
+- Rate Limiter
+- Producer–Consumer
+- Thread Pool
+
+#### Cloud and Microservices Patterns
+- API Gateway
+- Sidecar
+- Strangler Fig
+- Database per Service
+- Backends for Frontends (BFF)
+
