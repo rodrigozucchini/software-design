@@ -1,8 +1,7 @@
-# software-design
+# Software Development Principles and Patterns
+
 A comprehensive guide to software development principles and design patterns, including clear explanations and code examples.
 
-
-# Software Development Principles and Patterns
 
 ## Part 1: Software Development Principles and Patterns
 
