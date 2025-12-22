@@ -8,7 +8,7 @@ A comprehensive guide to software development principles and design patterns, in
 
 #### S.O.L.I.D. Principles
 - Single Responsibility Principle (SRP) https://medium.com/@ro-zcn/solid-1-single-responsibility-principle-typescript-589d680676f8
-- Open/Closed Principle (OCP)
+- Open/Closed Principle (OCP) https://medium.com/@ro-zcn/solid-2-open-closed-principle-typescript-afd70b34dd8a
 - Liskov Substitution Principle (LSP)
 - Interface Segregation Principle (ISP)
 - Dependency Inversion Principle (DIP)
