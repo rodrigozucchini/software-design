@@ -18,6 +18,9 @@ A comprehensive guide to software development principles and design patterns, in
 - Dependency Inversion Principle (DIP)
 ##### https://ro-zcn.medium.com/solid-5-dependency-inversion-typescript-c6b997592a52
 
+- SOLID WITH TYPESCRIPT AND NESTJS
+##### https://ro-zcn.medium.com/solid-in-nestjs-with-typescript-8643018c5e1c
+
 #### More
 - Don’t Repeat Yourself (DRY)
 - Inversion of Control (IoC)
