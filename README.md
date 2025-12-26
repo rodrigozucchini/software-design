@@ -42,6 +42,7 @@ A comprehensive guide to software development principles and design patterns, in
 - Builder
 - Singleton
 - Dependency Injection
+##### https://ro-zcn.medium.com/dependency-injection-pattern-with-typescript-4c6d45bdd877
 - Service Locator
 - Abstract Factory
 - Factory Method
