@@ -50,7 +50,7 @@ class SmsSender implements MessageSender {
 
 // MAIN CLASS
 // It DOES NOT create EmailSender or SmsSender
-// It RECEIVES the dependency from outside (this is DI)
+// It RECEIVES the dependency from outside (this is DI: dependeny injection)
 class NotificationService {
   constructor(private sender: MessageSender) {}
   // ↑ Dependency is injected through the constructor
