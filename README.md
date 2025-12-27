@@ -58,6 +58,7 @@ A comprehensive guide to software development principles and design patterns, in
 - Command
 - Chain of Responsibility
 - Strategy
+##### https://ro-zcn.medium.com/strategy-pattern-with-typescript-4351d6e6fea3
 - Template Method
 - Interpreter
 - Observer
