@@ -46,6 +46,7 @@ A comprehensive guide to software development principles and design patterns, in
 - Service Locator
 - Abstract Factory
 - Factory Method
+##### https://ro-zcn.medium.com/factory-method-using-typescript-c8e03674c3c0
 
 #### Structural Patterns
 - Adapter
