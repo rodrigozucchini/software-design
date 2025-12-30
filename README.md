@@ -54,6 +54,7 @@ A comprehensive guide to software development principles and design patterns, in
 - Data Access Object (DAO)
 - Query Object
 - Decorator
+##### https://ro-zcn.medium.com/decorators-with-typescript-f00254121fee
 - Bridge
 
 #### Behavioral Patterns
