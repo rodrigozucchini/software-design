@@ -50,6 +50,7 @@ A comprehensive guide to software development principles and design patterns, in
 
 #### Structural Patterns
 - Adapter
+##### https://ro-zcn.medium.com/adapter-pattern-typescript-and-joystick-example-f073675fedce
 - Data Access Object (DAO)
 - Query Object
 - Decorator
