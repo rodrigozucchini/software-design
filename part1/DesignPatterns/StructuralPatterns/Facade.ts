@@ -6,7 +6,6 @@ class CPU {
   start() {
     console.log('CPU started');
   }
-
   reset() {
     console.log('CPU reset');
   }
@@ -40,7 +39,6 @@ class Network {
   connect() {
     console.log('Network connected');
   }
-
   disconnect() {
     console.log('Network disconnected');
   }

@@ -130,6 +130,7 @@ A comprehensive guide to software development principles and design patterns, in
 
 #### Structural Patterns
 - Facade
+##### https://ro-zcn.medium.com/facade-pattern-explaining-with-typescript-60de67f337fa
 - Flyweight
 - Proxy
 
