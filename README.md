@@ -41,6 +41,7 @@ A comprehensive guide to software development principles and design patterns, in
 #### Creational Patterns
 - Builder
 - Singleton
+#### https://ro-zcn.medium.com/singleton-pattern-with-typescript-2e0ce61c314b
 - Dependency Injection
 ##### https://ro-zcn.medium.com/dependency-injection-pattern-with-typescript-4c6d45bdd877
 - Service Locator
