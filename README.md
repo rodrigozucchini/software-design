@@ -58,6 +58,7 @@ A comprehensive guide to software development principles and design patterns, in
 - Decorator
 ##### https://ro-zcn.medium.com/decorators-with-typescript-f00254121fee
 - Bridge
+##### https://ro-zcn.medium.com/bridge-pattern-using-typescript-e8a3a11f0796
 
 #### Behavioral Patterns
 - Command
