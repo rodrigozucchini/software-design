@@ -40,6 +40,7 @@ A comprehensive guide to software development principles and design patterns, in
 
 #### Creational Patterns
 - Builder
+#### https://ro-zcn.medium.com/i-wonder-if-the-builder-pattern-is-a-good-pattern-634726da89ce
 - Singleton
 #### https://ro-zcn.medium.com/singleton-pattern-with-typescript-2e0ce61c314b
 - Dependency Injection
