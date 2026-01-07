@@ -54,6 +54,7 @@ A comprehensive guide to software development principles and design patterns, in
 - Adapter
 ##### https://ro-zcn.medium.com/adapter-pattern-typescript-and-joystick-example-f073675fedce
 - Data Access Object (DAO)
+##### https://ro-zcn.medium.com/dao-data-access-object-typescript-6536cc8edd84
 - Query Object
 - Decorator
 ##### https://ro-zcn.medium.com/decorators-with-typescript-f00254121fee
