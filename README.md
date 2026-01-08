@@ -157,6 +157,10 @@ A comprehensive guide to software development principles and design patterns, in
 - Overengineering
 - Reinventing the Wheel
 
+#### Other
+- Providers
+
+
 ---
 
 ## Part 2: Software Architecture Principles and Patterns
