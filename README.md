@@ -159,7 +159,7 @@ A comprehensive guide to software development principles and design patterns, in
 
 #### Other
 - Providers
-
+#### https://ro-zcn.medium.com/provider-as-a-piece-of-code-ff2966c93791?postPublishedType=initial
 
 ---
 
