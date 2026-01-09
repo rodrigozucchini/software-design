@@ -160,7 +160,8 @@ A comprehensive guide to software development principles and design patterns, in
 #### Other
 - Providers
 #### https://ro-zcn.medium.com/provider-as-a-piece-of-code-ff2966c93791?postPublishedType=initial
-
+-- Middlewares, Pipes and Guards
+#### https://ro-zcn.medium.com/middlewares-pipes-and-guards-in-nestjs-c6108bd27ee8
 ---
 
 ## Part 2: Software Architecture Principles and Patterns
