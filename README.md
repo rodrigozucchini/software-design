@@ -47,6 +47,7 @@ A comprehensive guide to software development principles and design patterns, in
 ##### https://ro-zcn.medium.com/dependency-injection-pattern-with-typescript-4c6d45bdd877
 - Service Locator
 - Abstract Factory
+##### https://ro-zcn.medium.com/abstract-factory-using-typescript-5f1bc73bf755
 - Factory Method
 ##### https://ro-zcn.medium.com/factory-method-using-typescript-c8e03674c3c0
 
@@ -159,9 +160,9 @@ A comprehensive guide to software development principles and design patterns, in
 
 #### Other
 - Providers
-#### https://ro-zcn.medium.com/provider-as-a-piece-of-code-ff2966c93791?postPublishedType=initial
--- Middlewares, Pipes and Guards
-#### https://ro-zcn.medium.com/middlewares-pipes-and-guards-in-nestjs-c6108bd27ee8
+##### https://ro-zcn.medium.com/provider-as-a-piece-of-code-ff2966c93791?postPublishedType=initial
+- Middlewares, Pipes and Guards
+##### https://ro-zcn.medium.com/middlewares-pipes-and-guards-in-nestjs-c6108bd27ee8
 ---
 
 ## Part 2: Software Architecture Principles and Patterns
