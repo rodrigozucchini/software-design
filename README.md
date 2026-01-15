@@ -64,6 +64,7 @@ A comprehensive guide to software development principles and design patterns, in
 
 #### Behavioral Patterns
 - Command
+##### https://ro-zcn.medium.com/command-pattern-in-typescript-7d1b38c9ccb7
 - Chain of Responsibility
 - Strategy
 ##### https://ro-zcn.medium.com/strategy-pattern-with-typescript-4351d6e6fea3
